@@ -266,7 +266,7 @@ namespace tareaSebastianCastro
                 Console.ReadKey();
 
             }
-            else if (10 > cantprod)
+            else if (10 < cantprod)
             {
                 Console.Clear();
 
